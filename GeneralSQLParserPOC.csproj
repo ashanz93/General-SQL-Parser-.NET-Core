@@ -6,7 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Gudusoft.GeneralSQLParser" Version="3.2.5.2" />
+    <Reference Include="gudusoft.gsqlparser">
+      <HintPath>lib\gudusoft.gsqlparser.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>

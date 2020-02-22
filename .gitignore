@@ -1,2 +1,5 @@
 Properties/PublishProfiles/FolderProfile.pubxml
 Properties/PublishProfiles/FolderProfile.pubxml.user
+.vs/
+bin/
+obj/
